@@ -1,0 +1,15 @@
+.signout {
+    background-color:rgb(190, 71, 71);
+    border: none;
+    color: rgb(252, 252, 252);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+/* .signout:hover{
+    background-color: rgb(220, 85, 85);
+    font-size: 25px;
+} */
