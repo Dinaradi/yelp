@@ -69,7 +69,7 @@ function App({ signOut }) {
           {Restaurants.length ? (
           <Row className="my-3">
               <Col>
-              <Table striped>
+              <Table striped bordered>
                   <thead>
                     <tr>
                       <th>#</th>
